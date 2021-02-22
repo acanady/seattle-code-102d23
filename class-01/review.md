@@ -11,5 +11,5 @@
   - # External Link https://www.starwars.com
   - [This is the content that shows on the page](https://www.starwars.com)
 - Bold and Italics
-_ *This is italicized* _This is italicized as well_ **This is BOLD** __This is Bold__
+- *This is italicized* _This is italicized as well_ **This is BOLD** __This is Bold__
 _
