@@ -28,3 +28,6 @@
 
 - Quote
 - > This is a QUOTE
+
+- This is an image
+- ![](https://lumiere-a.akamaihd.net/v1/images/Jedi-Order_c0dfa281.jpeg)
