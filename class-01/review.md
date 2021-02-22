@@ -11,5 +11,14 @@
   - # External Link https://www.starwars.com
   - [This is the content that shows on the page](https://www.starwars.com)
 - Bold and Italics
-- *This is italicized* _This is italicized as well_ **This is BOLD** __This is Bold__
-_
+  - *This is italicized* _This is italicized as well_ **This is BOLD** __This is Bold__ 
+- List (unordered list)
+  - Item 
+  - Item
+  - Item
+ - Ordered List
+   1. item 1
+   2. item 2
+   3. item 3
+   4. item 4
+   5. item 5
